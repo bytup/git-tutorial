@@ -1,0 +1,17 @@
+.img{
+   
+    height: 200px;
+    width: 200px;
+    border-radius: 110px;
+    box-shadow: 2px 0px 5px 2px red;
+    padding: 2px;
+}
+.b{
+    border: 2px solid chartreuse;
+    background: linear-gradient( red,blue, yellow);
+    text-align: center;
+    color: white;
+}.container{
+    width:250px;
+   
+}
